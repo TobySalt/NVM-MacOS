@@ -1,6 +1,6 @@
 #!/bin/bash -
 #title           :MacosInstall.sh
-#description     :This script will set up a Mac to the Vonage standard.
+#description     :This script will set up a Mac to the standard for NVM Domains.
 #author		       :Toby Salt
 #date            :21/7/2021
 #version         :2.0.0
